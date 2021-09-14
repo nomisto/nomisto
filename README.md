@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Simon Ott</h1>
-<h3 align="center">A passionate data scientist from Austria</h3>
 
 - 🌱 I’m currently learning **AI, Machine Learning**
 
 - 📫 How to reach me **simonott [at] gmx.at**
-
-- ⚡ Fun fact **My Github username is almost my full name backwards.**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,14 +11,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomisto&show_icons=true&locale=en&layout=compact" alt="nomisto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomisto&" alt="nomisto" /></p>
-
-
-
-
-
-<a href="https://github.com/OpenBioLink/OpenBioLink">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenBioLink&repo=OpenBioLink" />
-</a>
-<a href="https://github.com/OpenBioLink/SAFRAN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenBioLink&repo=SAFRAN" />
-</a>
